@@ -3176,6 +3176,7 @@ input, select, textarea {
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
+			padding-left: 175px;
 		}
 
 			#footer > .inner > * > :last-child {
